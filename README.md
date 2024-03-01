@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @jaidman
-- 👀 I’m interested in computer science, music, gaming, and skating.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on anything that interests me, like website creation
-- 😄 Pronouns: they/them/he/him
-- ⚡ Fun fact: I love linguistics
+he/him 🤍
+
 
 <!---
 jaidman/jaidman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
